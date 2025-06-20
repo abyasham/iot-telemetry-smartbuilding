@@ -4,6 +4,10 @@
 
 This project implements a machine learning-based cybersecurity system for smart buildings, focusing on detecting and classifying potential attacks. The system leverages various machine learning models and techniques to provide robust protection against a range of threats.
 
+## Dataset
+
+This project utilizes the ToN-IoT dataset, a comprehensive dataset for evaluating IoT security solutions. It can be found at: https://research.unsw.edu.au/projects/toniot-datasets
+
 ## Data
 
 The system utilizes a dataset containing data from various IoT devices within a smart building environment. The dataset includes features related to temperature, light status, door state, and other sensor readings.

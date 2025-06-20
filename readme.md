@@ -58,4 +58,4 @@ Potential areas for future work include:
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email].
+For any questions or inquiries, please contact abyasham at abyasham@gmail.com.
